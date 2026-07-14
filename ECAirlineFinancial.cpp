@@ -2,7 +2,6 @@
 ////  ECAirlineFinancial.cpp
 ////  
 ////
-////  Created by Yufeng Wu on 5/16/23.
 ////
 //
 //#include "ECAirlineFinancial.h"

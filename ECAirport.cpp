@@ -2,7 +2,6 @@
 //  ECAirport.cpp
 //  
 //
-//  Created by Yufeng Wu on 5/11/23.
 //
 
 #include "ECAirport.h"

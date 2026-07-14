@@ -2,7 +2,6 @@
 //  ECConsoleUIItem.h
 //  
 //
-//  Created by Yufeng Wu on 5/23/23.
 //
 
 #ifndef ECConsoleUIItem_h

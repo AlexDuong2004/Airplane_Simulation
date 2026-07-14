@@ -2,7 +2,6 @@
 //  ECAirlineSimulator.cpp
 //  
 //
-//  Created by Yufeng Wu on 5/17/23.
 //
 
 #include "ECAirlineSimulator.h"

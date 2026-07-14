@@ -2,7 +2,6 @@
 //  ECConsoleUIButton.h
 //  
 //
-//  Created by Yufeng Wu on 3/6/24.
 //
 
 #ifndef ECConsoleUIButton_h

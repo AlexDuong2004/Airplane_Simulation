@@ -2,7 +2,6 @@
     //  ECAirlineSimulator.hpp
     //  
     //
-    //  Created by Yufeng Wu on 5/17/23.
     //  Simulate airline activities: booking, flights, etc
 
     #ifndef ECAirlineSimulator_h

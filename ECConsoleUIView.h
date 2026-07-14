@@ -2,7 +2,6 @@
 //  ECConsoleUIView.h
 //  
 //
-//  Created by Yufeng Wu on 5/23/23.
 //
 
 #ifndef ECConsoleUIView_h

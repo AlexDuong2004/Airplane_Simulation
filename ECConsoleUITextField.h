@@ -2,7 +2,6 @@
 //  ECConsoleUITextField.h
 //  
 //
-//  Created by Yufeng Wu on 5/24/23.
 //
 
 #ifndef ECConsoleUITextField_h

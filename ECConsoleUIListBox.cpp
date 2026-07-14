@@ -2,7 +2,6 @@
     //  ECConsoleUIListBox.cpp
     //
     //
-    //  Created by Yufeng Wu on 5/23/23.
     //
 
     #include "ECConsoleUIListBox.h"

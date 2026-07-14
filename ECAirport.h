@@ -2,7 +2,6 @@
 //  ECAirport.h
 //  
 //
-//  Created by Yufeng Wu on 5/11/23.
 //
 
 #ifndef ECAirport_h

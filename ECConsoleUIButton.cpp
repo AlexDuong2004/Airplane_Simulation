@@ -2,7 +2,6 @@
 //  ECConsoleUIButton.cpp
 //  
 //
-//  Created by Yufeng Wu on 3/6/24.
 //
 
 #include "ECConsoleUIButton.h"

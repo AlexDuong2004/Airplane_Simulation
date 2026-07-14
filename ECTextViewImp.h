@@ -2,8 +2,6 @@
 //  ECTextViewImp.h
 //  
 //
-//  Created by Yufeng Wu on 2/27/20.
-//  Last modified: 4/9/2021
 //
 
 #ifndef ECTextViewImp_h
@@ -16,8 +14,6 @@
 
 //***********************************************************
 //          TextView version 1.0.0 beta
-//                  April 9, 2021
-//                  By Yufeng Wu (all rights reserved)
 //    Disclaimer: the following code is largely a porting of
 //              the Kilo editor from C to C++
 //***********************************************************

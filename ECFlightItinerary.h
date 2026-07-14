@@ -2,7 +2,6 @@
 //  ECFlightItinerary.h
 //  
 //
-//  Created by Yufeng Wu on 5/11/23.
 //
 
 #ifndef ECFlightItinerary_h

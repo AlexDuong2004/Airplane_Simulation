@@ -2,7 +2,6 @@
 //  ECFlightItinerary.cpp
 //  
 //
-//  Created by Yufeng Wu on 5/11/23.
 //
 
 #include "ECFlightItinerary.h"
